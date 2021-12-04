@@ -115,6 +115,10 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+    plugins: [
+      [require.resolve('@easyops-cn/docusaurus-search-local'), { hashed: true }],
+    ],
 };
 
 module.exports = config;
