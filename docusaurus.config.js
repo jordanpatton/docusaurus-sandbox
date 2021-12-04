@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Title',
+  title: 'Title 1',
   tagline: 'Tagline goes here.',
   url: 'https://jordanpatton.com',
   baseUrl: '/docusaurus-sandbox/',
